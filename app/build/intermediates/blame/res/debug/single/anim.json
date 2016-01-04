@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\commons_slide_bottom_to_up.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.alexvasilkov\\android-commons\\1.2.4\\res\\anim\\commons_slide_bottom_to_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\commons_slide_up_to_bottom.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.alexvasilkov\\android-commons\\1.2.4\\res\\anim\\commons_slide_up_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\commons_fade_out.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.alexvasilkov\\android-commons\\1.2.4\\res\\anim\\commons_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\commons_slide_to_right.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.alexvasilkov\\android-commons\\1.2.4\\res\\anim\\commons_slide_to_right.xml"
+    },
+    {
+        "merged": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\commons_zoom_exit.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.alexvasilkov\\android-commons\\1.2.4\\res\\anim\\commons_zoom_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\commons_fade_in.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.alexvasilkov\\android-commons\\1.2.4\\res\\anim\\commons_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\commons_zoom_enter.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.alexvasilkov\\android-commons\\1.2.4\\res\\anim\\commons_zoom_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\commons_slide_from_right.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.alexvasilkov\\android-commons\\1.2.4\\res\\anim\\commons_slide_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\commons_slide_to_left.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.alexvasilkov\\android-commons\\1.2.4\\res\\anim\\commons_slide_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\commons_slide_from_left.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.alexvasilkov\\android-commons\\1.2.4\\res\\anim\\commons_slide_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\mywork\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\res\\merged\\debug\\anim\\commons_hold.xml",
+        "source": "C:\\Users\\ashish.srivastava\\Desktop\\Retrofit2.0Example\\app\\build\\intermediates\\exploded-aar\\com.alexvasilkov\\android-commons\\1.2.4\\res\\anim\\commons_hold.xml"
+    }
+]

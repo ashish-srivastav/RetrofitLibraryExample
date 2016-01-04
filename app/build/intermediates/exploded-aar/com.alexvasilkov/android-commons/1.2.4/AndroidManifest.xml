@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.alexvasilkov.android.commons"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="17"
+    android:versionName="1.2.4" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="22" />
+
+    <application />
+
+</manifest>
